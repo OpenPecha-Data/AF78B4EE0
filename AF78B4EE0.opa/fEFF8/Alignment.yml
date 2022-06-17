@@ -1,0 +1,26 @@
+segment_sources:
+  IBC3B14B2:
+    type: origin_type
+    relation: translation
+    language: en
+  I4047A47A:
+    type: origin_type
+    relation: translation
+    language: fr
+  I390A3106:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c6d98b47b063405c9bc5bc4abb003dfe:
+    IBC3B14B2: 29bf6caba4404f439055e61ff67287b5
+    I4047A47A: 4d3dc9aeee554e3ea30155f3c3ad3c49
+    I390A3106: bb5c7b4fc6354e1fba8841dccaba8a8b
+  61e704d63e8c47b3b7fa6e1f832ad330:
+    IBC3B14B2: 27ed25fe37cc4672b0706474303d9f8d
+    I4047A47A: a93cc3ddd1864ac180a8cb983dd214d7
+    I390A3106: b3dcae08904345cb91a0b2dc7006350c
+  3ceb67a7dd2740948981c177ee3e8254:
+    IBC3B14B2: 29bcf5a9219f4ea091f4987c58553523
+    I4047A47A: ace6949938f74c80a851c8891a84120b
+    I390A3106: 4084bc0f01bf4a749c37e73475df497e

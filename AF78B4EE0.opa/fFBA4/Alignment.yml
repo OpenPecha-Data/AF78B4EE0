@@ -1,0 +1,31 @@
+segment_sources:
+  IBC3B14B2:
+    type: origin_type
+    relation: translation
+    language: en
+  I390A3106:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0d58ec20c6f440ea8399eb6c5a87075d:
+    IBC3B14B2: 839fd85a0631462eaff5022fd62a58c2
+    I390A3106: 9eec1642ddde43e8bbd086bfad34ddc4
+  e0704ccfcee247dc805cb165698dbee4:
+    IBC3B14B2: da3c85ed267b4518b1f161e7b55e0acd
+    I390A3106: 671a8f2473b9480bb2ae710b863806c3
+  c78b284273fd4b4eaced1d5981fca9e7:
+    IBC3B14B2: bcc31ff47f9d4f4088b3de62a2c5c2be
+    I390A3106: 55cd46b42724482a8771ecf5cac36747
+  1077938ae0cf438196aeba76f10b4799:
+    IBC3B14B2: 7a3b28910212454ebf104bdcf7b3ce00
+    I390A3106: 1f6fc5ac018b499489f128411d84bb7f
+  2f7ed7a2d9bd45919c09ab2716062c8a:
+    IBC3B14B2: 6efa6a33f92343dfa70f3eb5fbdb55c8
+    I390A3106: e8cdde7e26484d5ba0641192f6b0614c
+  e561b6104fad48edb3f5e25fdb9d1c86:
+    IBC3B14B2: 2cc8286c24984c0f8a8c3758b7397d26
+    I390A3106: 4662cc6561234f608f918d12aaac6fea
+  85d1f83e45e843cfb58669961515ac7a:
+    IBC3B14B2: 41ce4b6132f64d07abb57cacf1ea8540
+    I390A3106: 49b77c47be2644599ad84db57b922f25

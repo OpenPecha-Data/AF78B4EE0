@@ -1,0 +1,19 @@
+segment_sources:
+  IBC3B14B2:
+    type: origin_type
+    relation: translation
+    language: en
+  I390A3106:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  eb05c311aed7417eb828af02c1162504:
+    IBC3B14B2: 47ad0ae6a15e4747a44d2d6d81080b9c
+    I390A3106: 25224ff80b784c64ac6a1cc644a11f38
+  221acc1d902e451784129bd4dc446d20:
+    IBC3B14B2: 7ad144ec77b0413199ac73797469fcac
+    I390A3106: cca3e3c4ce1e4551a11eeea73435b6cb
+  2cb8a1d4190849c1b9d04afaa8c2fdfb:
+    IBC3B14B2: e57d6f85de7c4f65954c02579a669bd0
+    I390A3106: 2169cc4a20cb46398e6ae50a4512d0b4
